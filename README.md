@@ -8,12 +8,10 @@ Una de las limitantes del modelo de Markowitz es que usa la desviación estánda
 Se incluye el SPY (S&P500) como benchmark para constrastar el comporamiento riesgo-rendimiento de los activos digitales frente al mercado accionario tradicional.
 
 ### Activos analizados:
-* Bitcoin (BTC)
 * Dogecoin (DOGE)
 * Binance Coin (BNB)
 * Solana (SOL)
 * Polygon (MATIC)
-* Ripple (XRP)
 * SPY (benchmark)
 
 ### Metodología
