@@ -28,13 +28,7 @@ Peso máximo por activo = 50% (restricción de concentración)
 11. Comparación con benchmark: contraste de la frontera eficiente del portafolio de criptomonedas frente a SPY.
 
 ### RESULTADOS:
-#### Activos individuales (anualizados)
-Activo	Rend. Anual	Vol. Anual	Sharpe
-SOL	161.7%	161.9%	0.999
-DOGE	158.8%	207.1%	0.767
-BNB	109.0%	114.2%	0.955
-ADA	81.7%	129.2%	0.633
-SPY	12.1%	17.6%	0.688
+
 
 ### Herramientas
-RStudio -- Liberías: quantmod, moments, tseries, FinTS, rugarch, rmgarch, quadprog.
+RStudio -- Liberías: quantmod (descarga de datos históricos), moments (asimetría y cutosis), tseries (Test de Jarque-Bera), FinTS (Test ARCH-LM), rugarch (Modelos GARCH/EGARCH univariados), rmgarch (Modelo DCC-GARCH multivariado), quadprog (Optimización cuadrática de Markowitz).
